@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1507043439 source:c:\users\alumno\desktop\bustamante.francisco\lib.c
+	"lib.h"
+
+1507043544 c:\users\alumno\desktop\bustamante.francisco\lib.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1507043452 source:c:\users\alumno\desktop\bustamante.francisco\main.c
+	"lib.h"
+
+1507520044 source:c:\users\alumno\downloads\parcial-master\lib.c
+	"lib.h"
+
+1507520044 c:\users\alumno\downloads\parcial-master\lib.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+
+1507519945 source:c:\users\alumno\downloads\parcial-master\main.c
+	"lib.h"
+
